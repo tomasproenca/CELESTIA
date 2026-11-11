@@ -1,0 +1,6 @@
+numpy
+numba
+nvtx
+h5py
+matplotlib
+python-dotenv

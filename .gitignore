@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+dotenv/.env
+.env
+output/*
+!output/.gitkeep
+NSS/
+*.nsys-rep
+*.etl
+*.h5
