@@ -42,4 +42,4 @@ The CPU and GPU paths use different random number generators, so the same seed d
 
 ## License
 
-Unlicense. See `LICENSE`.
+MIT. See `LICENSE`.
